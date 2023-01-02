@@ -1,0 +1,6 @@
+framework module Pods_BookComment {
+  umbrella header "Pods-BookComment-umbrella.h"
+
+  export *
+  module * { export * }
+}
